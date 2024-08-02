@@ -1,4 +1,3 @@
 # DEMO
 
- Hey there!
-HEY THERE
+Hey there!
